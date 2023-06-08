@@ -1,4 +1,8 @@
-    public class Mountain {
+/*
+ Christian Aiello CIS206 Final Exam Program
+*/
+
+public class Mountain {
     private String name; 
     private String country; 
     private double elevation; 
